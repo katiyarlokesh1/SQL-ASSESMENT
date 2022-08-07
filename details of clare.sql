@@ -1,0 +1,1 @@
+SELECT * FROM employees WHERE  emp_name='CLARE';

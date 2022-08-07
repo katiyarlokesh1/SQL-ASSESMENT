@@ -1,0 +1,1 @@
+SELECT * FROM employees WHERE DATE_FORMAT(hire_date,'%M')='May';

@@ -1,0 +1,1 @@
+SELECT emp_id, salary, commision FROM employees;

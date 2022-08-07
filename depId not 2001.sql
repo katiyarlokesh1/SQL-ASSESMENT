@@ -1,0 +1,1 @@
+SELECT * FROM employees WHERE dep_id <> 2001;

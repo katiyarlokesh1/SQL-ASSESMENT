@@ -1,0 +1,1 @@
+SELECT * FROM employees WHERE salary*1.25>3000;

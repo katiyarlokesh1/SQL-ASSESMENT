@@ -1,0 +1,1 @@
+SELECT emp_id, emp_name, salary, DATE_FORMAT(hire_date, '%M %d, %Y') FROM employees;

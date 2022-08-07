@@ -1,0 +1,1 @@
+SELECT CHAR_LENGTH(REPLACE(emp_name,' ','')) as "length" FROM employees;

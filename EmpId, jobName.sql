@@ -1,0 +1,1 @@
+SELECT emp_id, job_name FROM employees;

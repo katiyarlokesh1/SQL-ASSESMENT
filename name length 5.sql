@@ -1,0 +1,1 @@
+SELECT emp_name FROM employees WHERE CHAR_LENGTH(REPLACE(EMP_NAME,' ',''))<=>5;

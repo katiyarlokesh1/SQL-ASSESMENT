@@ -1,0 +1,1 @@
+SELECT CONCAT (emp_name, '(', LOWER(job_name),')') AS "Employee" FROM employees;
